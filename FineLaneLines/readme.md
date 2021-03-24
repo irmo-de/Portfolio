@@ -1,8 +1,5 @@
 # **Finding Lane Lines on the Road** 
 
-## Writeup Template
-
-
 **Finding Lane Lines on the Road**
 
 The goals / steps of this project are the following:
@@ -46,6 +43,10 @@ hugh_max_line_gap   = 2
 
 The result can be seen here
 
+![Image of Yaktocat](test_images_output/w_solidWhiteCurve.jpg)
+
+
+
 The draw lines has been modified to seperate between left and right lines by calculation the slope.
 
 By extracting the constant term from all lines simple averaging is possible.
@@ -63,7 +64,7 @@ This allows average and reduces jitter.
 (-) missing lines will cause pipeline to fail
 
 
-### 3. Suggest possible improvements to your pipeline
+### 3. Possible improvements pipeline
 
 Filter out lines that from other cars, do not belong to the street.
 Weight lines by there lenght (we should trust longer detected lines more that short lines)
