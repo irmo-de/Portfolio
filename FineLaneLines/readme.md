@@ -1,8 +1,5 @@
 # **Finding Lane Lines on the Road** 
 
-## Writeup Template
-
-
 **Finding Lane Lines on the Road**
 
 The goals / steps of this project are the following:
