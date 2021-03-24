@@ -43,7 +43,8 @@ hugh_max_line_gap   = 2
 
 The result can be seen here
 
-[image1]: /examples/grayscale.jpg "Grayscale"
+![Image of Yaktocat](/examples/grayscale.jpg)
+
 
 
 The draw lines has been modified to seperate between left and right lines by calculation the slope.
