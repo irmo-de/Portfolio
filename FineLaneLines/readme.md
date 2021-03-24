@@ -43,7 +43,7 @@ hugh_max_line_gap   = 2
 
 The result can be seen here
 
-![Image of Yaktocat](portfolio/examples/grayscale.jpg)
+![Image of Yaktocat](test_images_output/w_solidWhiteCurve.jpg)
 
 
 
